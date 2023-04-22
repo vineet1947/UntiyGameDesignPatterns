@@ -1,0 +1,21 @@
+1 .This project aims to understand the memory usuage 
+   for the meshes created ! 
+
+2. MoreOver this patterns is internally build into unity 
+
+3. A Better Use case is by using "com.unity.entity" and "com.unity.entities.graphics" 
+
+as Using the DOTS patterns is really useful for flyweight patterns but programming then 
+can be a tough task  !! 
+
+
+
+** The Cube in this project is used for making terrians using perline noise ==>  
+
+using 1000 * 1000 dim plane will crash your program and using the dots entities patterns will 
+help to get through this 
+
+
+
+
+

@@ -1,0 +1,15 @@
+Command Pattern ==> 
+
+This package contains 3 Scripts : 
+
+1. InputHandler ==> It Conatins Key Mapping for key pressed and command ( or animaton) to be played  
+2. Command => Have command thhat can be executed
+3. CameraFollow360 ==> follows player automatically  
+
+
+The abstract class Execute is used execute any animation of choice
+focues on the operations we can perfom by using this kind of Program Pattern 
+
+specifically using this I was able to cache my command steps that we executed and created a replay system for the 
+example project that is bascially a charcter movement and actions the it can use  
+
