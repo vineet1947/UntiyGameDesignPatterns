@@ -1,0 +1,6 @@
+Observations for Observer Patterns  :: 
+
+1. Basically Used for making objects around each other 
+   know about there presence   
+2. Simple demo is attached to tell the spawing of game objects in the mini map or the Radar  
+
