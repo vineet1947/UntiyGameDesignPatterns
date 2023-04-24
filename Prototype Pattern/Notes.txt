@@ -1,0 +1,5 @@
+ProtoType Patterns  ::  
+
+1. Having a project with custom making of objects and saving them as prefabs 
+2. It uses perlin noise for making procedural models and terrian  
+
